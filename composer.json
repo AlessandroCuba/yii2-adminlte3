@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "magp\\": ""
+            "magp\\adminlte3\\": "src/"
         }
     },
     "repositories": [
